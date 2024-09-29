@@ -1,0 +1,22 @@
+.main-dashboard {
+  background-image: url("https://img.freepik.com/free-vector/realistic-neon-lights-background_23-2148907367.jpg?w=1060&t=st=1727649610~exp=1727650210~hmac=04a7a4fefeb8d5a8a9546b38799026462f2b4527a6c76b3b97f62042e91da04e");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: white;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+  justify-items: center;
+}
+button {
+  margin: 1rem 0;
+}
